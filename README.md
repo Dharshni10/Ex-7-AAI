@@ -1,12 +1,12 @@
 <H3>NAME : Dharshni V M</H3>
-<H3>REGISTER NO. : 212223240029</H3>
+<H3>REGISTER NO : 212223240029</H3>
 <H3>EX. NO.7</H3>
 <H3>DATE : </H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
 <H3>Aim: </H3> To perform automatic text summarization using Natural Language Processing (NLP) techniques. 
  <BR>
 <h3>Algorithm:</h3>
-Step 1 Import necessary libraries for natural language processing tasks.<BR>
+Step 1: Import necessary libraries for natural language processing tasks.<BR>
 Step 2: Download NLTK resources, including the punkt tokenizer and stopwords.<BR>
 Step 3: Define Text Preprocessing Function to tokenize, remove stopwords, and perform stemming.<BR>
 Step 4: Define the Text Summarization Function using a simple frequency-based approach.<br>
@@ -73,8 +73,5 @@ print(summary)
 
 <img width="747" height="213" alt="image" src="https://github.com/user-attachments/assets/2ffaec13-28b6-4bf0-8820-4dc7533f57b4" />
 
-
 <H3>Result:</H3>
-Thus ,the program to perform the Text summarization is executed sucessfully.
-
-
+Thus, the program to perform the Text summarization is executed sucessfully.
